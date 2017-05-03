@@ -1,0 +1,2 @@
+Завдання 6:
+додано - index.html, script.js, about.txt
